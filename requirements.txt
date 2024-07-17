@@ -1,0 +1,6 @@
+python-dotenv
+streamlit
+pdf2image
+google-generativeai
+Pillow
+deep_translator
